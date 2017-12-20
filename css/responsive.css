@@ -3,7 +3,7 @@
 @media (min-width: 1920px) {
 
     .portfolio {
-    min-height          : 411px;
+    min-height          : 200px;
     overflow            : hidden !important;
 }
 
@@ -13,7 +13,7 @@
 @media (min-width: 1367px) and (max-width: 1919px){
 
     .portfolio {
-    min-height          : 325px;
+    min-height          : 200px;
     overflow            : hidden !important;
 }
 
